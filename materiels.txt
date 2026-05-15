@@ -1,3 +1,4 @@
 PC Dell
 Imprimante HP
-Routeur cisco
+Routeur Cisco
+Laptop Lenovo 
